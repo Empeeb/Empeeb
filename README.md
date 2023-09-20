@@ -20,11 +20,12 @@
 
 ### Get in touch!
 <p align="center" dir="auto">
-  <a href="https://www.instagram.com/febriandudinata/"><img alt="Instagram"
-      src="https://img.shields.io/badge/instagram-febriandudinata-blue??style=flat-square&logo=instagram"></a>
-  <a href="mailto:Empeeb@yahoo.com"><img alt="Email"
-      src="https://img.shields.io/badge/Email-empebs@yahoo.com-blue??style=flat-square&logo=Yahoo&logoColor=BF40BF">
-  </a>
+  <a href="https://www.instagram.com/febriandudinata/"><img alt="Instagram" title="Instagram"
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"
+      style="max-width: 100%;"></a>
+  <a href="mailto:empeb19@gmail.com"><img alt="followers" title="Follow me on Github"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white"
+      style="max-width: 100%;"></a>
 </p>
 
 <!---
