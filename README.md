@@ -7,13 +7,13 @@
 </h2>
 <ul dir="auto">
   <li>
-    "🌱 Exploring new technologies and developing software."
+    🌱 Exploring new technologies and developing software.
   </li>
   <li>
-    "🎓 Studying System Information."
+    🎓 Studying System Information.
   </li>
   <li>
-    "✍️ Learning more about System Design."
+    ✍️ Learning more about System Design.
   </li>
 </ul>
 
@@ -39,13 +39,6 @@
   <a href="https://twitter.com/Empebs"><img alt="Twitter" title="Follow me on Twitter"
       src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&&amp;logo=X&&amp;logoColor=white"
       style="max-width: 100%;"></a>
-</p>
-
-<p align="left">
-  <a href="https://www.instagram.com/febriandudinata/"><img alt="Instagram"
-      src="https://img.shields.io/badge/instagram-febriandudinata-blue??style=flat-square&logo=instagram"></a>
-  <a href="mailto:Empeeb@yahoo.com"><img alt="Email"
-      src="https://img.shields.io/badge/Email-empebs@yahoo.com-blue??style=flat-square&logo=Yahoo&logoColor=BF40BF"></a>
 </p>
 <!---
 Empeeb/Empeeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
