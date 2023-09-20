@@ -1,6 +1,6 @@
 
 
-<img alt="Wave" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width='40' align="left"/><h2>Hey there! I'm Empeb.</h2>
+<img alt="Wave" src="https://www.flaticon.com/free-animated-icon/wave_11321431?term=hand&page=1&position=5&origin=search&related_id=11321431" width='40' align="left"/><h2>Hey there! I'm Empeb.</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Empeb. -->
 
