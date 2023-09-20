@@ -1,10 +1,13 @@
 <h2 dir="auto">
   About me
 </h2>
-<h3 align="center" dir="auto">
-  👋 Hey there! I'm
-  <a href="https://github.com/Empeeb">Empeb</a>
-</h3>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Hack&pause=1000&color=51F771&center=true&width=435&lines=Hello+there%2C+i'm+Empeb;I+do+open+source+%3A;3+%2B+years+of+coding+experience"
+      style="max-width: 100%;">
+  </a>
+</p>
 <h5 align="center" dir="auto">
   Let's get in touch wimme!
 </h5>
