@@ -6,7 +6,7 @@
   <a href="https://github.com/Empeeb">Empeb</a>
 </h3>
 <h5 align="center" dir="auto">
-  -Get in touch-
+  Let's get in touch wimme!
 </h5>
 <p align="center" dir="auto">
   <a href="https://www.instagram.com/febriandudinata/"><img alt="Instagram" title="Follow me on Instagram"
