@@ -1,10 +1,10 @@
-[<h2 dir="auto">
+<h2 dir="auto">
   About me
 </h2>
 <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Hack&pause=1000&color=51F771&center=true&width=435&lines=Hello+there%2C+i'm+Empeb;I+do+open+source+%3A;3+%2B+years+of+coding+experience"
+      src="https://readme-typing-svg.herokuapp.com?font=Hack&pause=1000&color=49F794&center=true&width=439&lines=Hello+there%2C+I'm+Empeb!;I+do+open+source;3+%2B+year+of+coding+experience"
       style="max-width: 100%;">
   </a>
 </p>
@@ -57,4 +57,3 @@
 Empeeb/Empeeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-](https://readme-typing-svg.herokuapp.com?font=Hack&pause=1000&color=49F794&center=true&width=439&lines=Hello+there%2C+I'm+Empeb!;I+do+open+source;3+%2B+year+of+coding+experience)https://readme-typing-svg.herokuapp.com?font=Hack&pause=1000&color=49F794&center=true&width=439&lines=Hello+there%2C+I'm+Empeb!;I+do+open+source;3+%2B+year+of+coding+experience
