@@ -1,9 +1,13 @@
 <h2 dir="auto">
-  👋 Hey there! I'm Empeb.
+  About me
 </h2>
+<h3 dir="auto">
+  👋 Hey there! I'm
+  <a href="https://github.com/Empeeb">Empeb</a>
+</h3>
 
 <h2 dir="auto">
-  About me
+  What I'am Doing
 </h2>
 <ul dir="auto">
   <li>
@@ -16,7 +20,6 @@
     ✍️ Learning more about System Design.
   </li>
 </ul>
-
 <h2 dir="auto">
   Tech Stack
 </h2>
@@ -25,7 +28,11 @@
     <img src="https://skillicons.dev/icons?i=git,vscode,css,html,js,nodejs,python" />
   </a>
 </p>
-
+<h2 dir="auto">
+  My Stats
+</h2>
+<a target="_blank" rel="noopener noreferrer nofollow"
+  href="https://github-readme-stats.vercel.app/api?username=Empeeb&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515"></a>
 <h2 dir="auto">
   Get in touch!
 </h2>
