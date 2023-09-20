@@ -6,8 +6,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 &nbsp; Exploring new technologies and developing software.
-- 🎓 &nbsp; Studying System Information.
+- 🌱&nbsp; Exploring new technologies and developing software.
+- 🎓&nbsp; Studying System Information.
 - ✍️ &nbsp; Learning more about System Design.
 
 
@@ -31,7 +31,7 @@
  </a>
  </p>
  
-### 🤝🏻 &nbsp;Reach Me! 
+### 🤝🏻 &nbsp;Get in touch! 
 
 <p align="left">
 <a href="https://www.instagram.com/febriandudinata/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-febriandudinata-blue??style=flat-square&logo=instagram"></a>
