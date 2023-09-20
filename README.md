@@ -31,8 +31,11 @@
 <h2 dir="auto">
   My Stats
 </h2>
-<a target="_blank" rel="noopener noreferrer nofollow"
-  href="https://github-readme-stats.vercel.app/api?username=Empeeb&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+  <img height="200px"
+    src="https://github-readme-stats.vercel.app/api?username=Empeeb&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515"
+    style="max-width: 100%;">
+</a>
 <h2 dir="auto">
   Get in touch!
 </h2>
