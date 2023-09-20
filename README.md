@@ -1,5 +1,3 @@
-
-
 <h2>Hey there! I'm Empeb.</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Empeb. -->
@@ -33,7 +31,7 @@
  
 ### 🤝🏻 &nbsp;Get in touch! 
 
-<p align="left">
+<p align="center dir="auto">
 <a href="https://www.instagram.com/febriandudinata/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-febriandudinata-blue??style=flat-square&logo=instagram"></a>
 <a href="mailto:Empeeb@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-empebs@yahoo.com-blue??style=flat-square&logo=Yahoo&logoColor=BF40BF"></a>
 </p>
