@@ -23,20 +23,6 @@
       style="max-width: 100%;"></a>
 </p>
 <h2 dir="auto">
-  What I'am Doing
-</h2>
-<ul dir="auto">
-  <li>
-    🌱 Exploring new technologies and developing software.
-  </li>
-  <li>
-    🎓 Studying System Information.
-  </li>
-  <li>
-    ✍️ Learning more about System Design.
-  </li>
-</ul>
-<h2 dir="auto">
   Tech Stack
 </h2>
 <p align="center" dir="auto">
