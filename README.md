@@ -4,7 +4,7 @@
 <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow">
     <img
-      src="https://readme-typing-svg.herokuapp.com/?font=Hack&pause=1000&color=49F794&center=true&width=439&lines=Hello+there%2C+I%27m+Empeb!;I+do+open+source;3+%2B+year+of+coding+experience"
+      src="https://readme-typing-svg.herokuapp.com/?font=Hack&pause=1000&color=49F794&center=true&width=439&lines=Hello+there%2C+I%27m+Empeb!;I+do+open+source;3+%2B+year+of+coding+experience](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF727&width=435&lines=Hello+there%2C+I'm+Empeb!"
       style="max-width: 100%;">
   </a>
 </p>
